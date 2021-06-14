@@ -1,0 +1,6 @@
+
+# gitignores
+
+static/
+staticfiles/
+files/
